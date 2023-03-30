@@ -1,10 +1,10 @@
 <head>
 <div align='center'>
 
-<h3><samp><strong> Hi, I'm Aston👋 </strong> </samp></h3>
+<h3><samp><strong> Hi, I'm Louis👋 </strong> </samp></h3>
 
 
-<p> <samp> Technology Recruitment Specialist <br> Amatuer Coder </samp></p>
+<p> <samp> Technology Recruitment Specialist <br> </samp></p>
 
   <br>
 
