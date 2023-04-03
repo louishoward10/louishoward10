@@ -1,19 +1,3 @@
-
-
-</div>
-<div align="center">
-    <img height="600" src="https://wallpaperaccess.com/full/8054247.jpg">
-  
-    
-
-
-
-
-
-
-
-
-
 <head>
 <div align='center'>
 
@@ -31,7 +15,7 @@
   <br>
 
 
-</div>
+
 <div align="center">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,10 +28,14 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
+   
+<div align="center">
+    <img height="600" src="https://wallpaperaccess.com/full/8054247.jpg">
+    
 
     
  
-</div>
+
 <br>
 
 <p align="center">
