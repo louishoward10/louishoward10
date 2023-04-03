@@ -1,3 +1,6 @@
+ <div align="center">
+    <img height="250" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
+
 <head>
 <div align='center'>
 
@@ -45,16 +48,17 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <div align="center">
-    <img height="800" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
+ #
   
-  <a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=hlf" width="400" alt="Louis Howard's Dev Card"/></a>  <div align="center">
+ 
+  <div align="center">
+    <img height="500" src="https://wallpaperaccess.com/full/8054247.jpg">
+    
+  <a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=hlf" width="400" alt="Louis Howard's Dev Card"/></a>  <div align="centre">
    
    
 
  
-  <div align="center">
-    <img height="500" src="https://wallpaperaccess.com/full/8054247.jpg">
     
 
     
