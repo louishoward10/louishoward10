@@ -2,7 +2,7 @@
 
 </div>
 <div align="center">
-    <img height="400" src="https://wallpaperaccess.com/full/8054247.jpg">
+    <img height="800" src="https://wallpaperaccess.com/full/8054247.jpg">
   
     
 
