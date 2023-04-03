@@ -53,24 +53,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
+  <a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=hlf" width="400" alt="Louis Howard's Dev Card"/></a>
   
-  
 
-  name: DevCard
-
-permissions:
-  contents: write
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
-    runs-on: ubuntu-latest
-    steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
-        with:
-          devcard_id: ${{<a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=hlf" width="400" alt="Louis Howard's Dev Card"/></a>}}
