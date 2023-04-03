@@ -55,6 +55,7 @@
   
   
   
+
   name: DevCard
 
 permissions:
@@ -67,9 +68,6 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-
-jobs:
-  devcard:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
