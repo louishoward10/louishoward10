@@ -27,21 +27,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-   
-
-  <div align="center">
-    <img height="500" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
-  <div align="center">
-    <img height="500" src="https://wallpaperaccess.com/full/8054247.jpg">
-    
-
-    
- 
-
-<br>
-
-<p align="center">
+    <p align="center">
 <strong> Contacts :iphone: <strong>
 <br>
 <p align="center">
@@ -61,5 +47,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=hlf" width="400" alt="Louis Howard's Dev Card"/></a>
+   
+
+  <div align="center">
+    <img height="500" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
+  <div align="center">
+    <img height="500" src="https://wallpaperaccess.com/full/8054247.jpg">
+    
+
+    
+ 
+
+<br>
+
+
   
 
