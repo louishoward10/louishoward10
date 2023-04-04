@@ -1,4 +1,6 @@
- <div align="center">
+
+![rand](https://rand-xyz.now.sh/api/hello)
+<div align="center">
     <img height="250" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
 
 <head>
@@ -13,7 +15,7 @@
   
   <p> <samp>Second Fun Fact About me: I am learning how to code!<br> </samp></p>
 
-
+![rand](https://rand-xyz.now.sh/api/hello)
 
   <br>
 
@@ -47,7 +49,7 @@
     </a>
 </p>
 
- ![rand](https://rand-xyz.now.sh/api/hello)
+![rand](https://rand-xyz.now.sh/api/hello)
  ![rand](https://rand-xyz.now.sh/api/hello)
  ![rand](https://rand-xyz.now.sh/api/hello)
 
