@@ -66,8 +66,6 @@
       
       
       
- <a href="https://app.daily.dev/lhoward5"><img src="https://api.daily.dev/devcards/74acfbb7e2a34204bb59caeb748c0b1d.png?r=a6r" width="400" alt="Louis Howard's Dev Card"/></a>
-   
    
 
  
