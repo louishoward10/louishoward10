@@ -1,7 +1,7 @@
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 <div align="center">
-    <img height="250" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
+    <img height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fclouds-timelapse&psig=AOvVaw3pN0djlhksetCQ1IELSebh&ust=1695283492550000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCJCuxKfduIEDFQAAAAAdAAAAABAc">
 
 <head>
 <div align='center'>
