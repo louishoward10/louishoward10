@@ -9,7 +9,7 @@
 <h3><samp><strong> Hi, I'm Louis Howard </strong> </samp></h3>
 
 
-<p> <samp> I am a Technology Recruitment Specialist, I work with some of the best professionals in France and Belgium who specialize in either of the top 3 CLoud Providers including Google Cloud Plattform, Microsoft Azure and finally Amazon Web Services!<br> </samp></p>
+<p> <samp> I am a Cloud Staffing Specialist, I work with some of the best professionals in the Netherlands who specialize in either of the top 3 CLoud Providers including Google Cloud, Microsoft Azure and finally Amazon Web Services!<br> </samp></p>
 
 <p> <samp>Fun Fact About me: I was originally born in Spain where I was able to learn how to speak Spanish FLuently!<br> </samp></p>
   
